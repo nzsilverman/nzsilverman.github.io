@@ -1,0 +1,20 @@
+/* custom css file, for use throughout webpage when bulma is 
+ * overly complicated/ annoying to use */
+
+/*
+img {
+    width: auto;
+    height: 100%;
+}
+*/
+
+
+.centered_padded {
+    max-width:700px;
+    margin:0 auto;
+    padding-right:50px;
+    padding-left:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
